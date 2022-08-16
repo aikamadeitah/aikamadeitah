@@ -6,7 +6,7 @@
 
 I would love to accept internship, apprenticeship, full time jobs related to Engineering and IT Tech Field</p>
 
-- 🌎 I'm based in Odense, Denmark
+- 🌎 I'm based in Odense, Denmark 🇩🇰
 - 🖥️ See [My Portfolio](https://aikamadeitah.github.io/)
 - 🌱 I’m currently learning Industrial Automation and Machine Learning.
 - 🔭 I’m currently working on small projects related to Embedded Applications, IoT & Automation.
@@ -16,7 +16,7 @@ I would love to accept internship, apprenticeship, full time jobs related to Eng
 - 💬 Ask me about a project collaboration.
 - ✉️ You can contact me at [olsendainty@gmail.com](mailto:olsendainty@gmail.com)
 - 😄 Pronouns: She/Her
-- 🍩 Fun fact: I love cakes!
+- 🍰 Fun fact: I love cakes!
 
 <br />
 
