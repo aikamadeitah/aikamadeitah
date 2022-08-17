@@ -7,7 +7,7 @@
 I would love to accept internship, apprenticeship, full time jobs related to Engineering and IT Tech Field</p>
 
 - 🌎 I'm based in Odense, Denmark 🇩🇰
-- 🖥️ See [My Portfolio](https://aikamadeitah.github.io/)
+- 🖥️ See [My Portfolio](https://aikamadeitah.github.io/) & [Project Repo](https://github.com/aikamadeitah/Projects)
 - 🌱 I’m currently learning Industrial Automation and Machine Learning.
 - 🔭 I’m currently working on small projects related to Embedded Applications, IoT & Automation.
 - ☀️ I'm starting to learn how to contribute to open source projects.
