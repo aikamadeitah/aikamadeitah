@@ -4,8 +4,6 @@
 
 <p>I am energetic and diligent with a real passion to create value in whatever I do and with a constant thirst for learning. I often seek to improve myself, either by professional training or self taught search. I have a positive and humble disposition and focus on good communication. <br />
 
-I would love to accept internship, apprenticeship, full time jobs related to Engineering and IT Tech Field</p>
-
 - 🌎 I'm based in Odense, Denmark 🇩🇰
 - 🖥️ See [My Portfolio](https://aikamadeitah.github.io/) | [Projects](https://github.com/aikamadeitah/Projects) | [Workshops & Certificates](https://github.com/aikamadeitah/Professional-Development)
 - 🌱 I’m currently learning Industrial Automation and Machine Learning.
