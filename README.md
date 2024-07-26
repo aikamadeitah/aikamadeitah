@@ -6,7 +6,7 @@
 
 - 🌎 I'm based in Odense, Denmark 🇩🇰
 - 🖥️ See [My Portfolio](https://aikamadeitah.github.io/) | [Projects](https://github.com/aikamadeitah/Projects) | [Workshops & Certificates](https://github.com/aikamadeitah/Professional-Development)
-- 🌱 Currently undergoing certification in Project Management [Prince2 v.7](https://github.com/aikamadeitah/Professional-Development/blob/main/Certificates/Project%20Management/Prince2%20v7%20Foundation.pdf)
+- 🌱 Currently undergoing certification in Project Management [Prince2 v.7]([https://github.com/aikamadeitah/Professional-Development/blob/main/Certificates/Project%20Management/Prince2%20v7%20Foundation.pdf](https://github.com/aikamadeitah/Professional-Development/tree/main/Certificates/Project%20Management))
 - 🔭 I’m working on small projects related to Embedded Applications, IoT & Automation.
 - 👯 I’m looking to collaborate on Electrical Engineering or any IoT projects.
 - 🤔 I’m looking for mentors / career advisors to help with guiding me get into IT/OT Industry.
